@@ -5,7 +5,7 @@ main() {
   print('');
   for (var i = 1; i <= n; i++) {
     for (var j = 0; j < i; j++) {
-      stdout.write(' *');
+      stdout.write(' [1]');
     }
     print('');
   }
